@@ -37,7 +37,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func tapWeekend3() {
-        dateLabel.text = "Mar 27"
+        dateLabel.text = "Mar 28"
         timeLabel.text = "10am-4pm"
     }
     
